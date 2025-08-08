@@ -3,8 +3,8 @@
 
 :root {
     --cor-fundo: #4d022e;
-    --cor-principal: #6e2164 ;
-    --cor-secundaria: #6a106d;
+    --cor-principal: #4b0441 ;
+    --cor-secundaria: #57035a;
     --cor-destaque: #4b0f3c;
     --cor-texto: #db99cbf5;
 }
@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;t
     display: flex;
     justify-content: center;
     align-items: center;
